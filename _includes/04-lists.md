@@ -1,5 +1,5 @@
-1.Chocolate
-1.Icecream
+1. Chocolate
+1. Icecream
 
--baby
--family
+- baby
+- family
